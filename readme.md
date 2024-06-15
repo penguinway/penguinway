@@ -1,4 +1,3 @@
-![:penguinway](https://count.getloli.com/get/@:penguinway)
 <h1> Hey there! I'm PenguinWay.</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=77E3FF&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=600&height=100&lines=TECH+OTAKUS+SAVE+THE+WORLD;%E6%8A%80%E6%9C%AF%E5%AE%85%E6%8B%AF%E6%95%91%E4%B8%96%E7%95%8C)](https://git.io/typing-svg)
