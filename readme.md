@@ -52,6 +52,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penguinway)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=penguinway&theme=github-compact&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=penguinway&theme=github-compact&hide_border=true&area=true)
+
 
 <br/>
 
@@ -60,7 +62,7 @@
 <p align="center">
 <a href="https://www.penguinway.space/"><img alt="Website" src="https://img.shields.io/badge/Website-penguinway.space-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:penguinloveyousa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-penguinloveyousa@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://space.bilibili.com/97182091"><img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-blue?style=flat-square&logo=bilibili"></a>
+<a href="https://space.bilibili.com/97182091"><img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-银河铁道边的penguin-blue?style=flat-square&logo=bilibili"></a>
 <a href="https://steamcommunity.com/id/penguinway/"><img alt="Steam" src="https://img.shields.io/badge/Steam-penguinway-blue?style=flat-square&logo=steam"></a>
-<a href="https://twitter.com/PenguinsWay"><img alt="twitter" src="https://img.shields.io/badge/Twitter-penguinway-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/PenguinsWay"><img alt="twitter" src="https://img.shields.io/badge/Twitter-penguinway-blue?style=flat-square&logo=x"></a>
 </p>
