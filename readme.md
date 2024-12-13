@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about Front-End and Back-End Development, Computer Network and Artificial Intelligence.
 - ✍️ &nbsp; Gaming and Blog Writing as hobbies/side hustles.
 - 🌐 &nbsp; Appreciating Anime, Comics, and Game (ACG) culture, the characters I love are spread across various games, like [Honkai Impact 3rd](https://honkaiimpact3.hoyoverse.com/global/en-us/fab), [Honkai - Star Rail](https://hsr.hoyoverse.com/en-us/), [WutheringWaves](https://wutheringwaves.kurogames.com/en/main/), [Reverse 1999](https://re1999.bluepoch.com/en/home/) ...LOL :)
-- ⚡ &nbsp; My dearest love is [Elysia](https://zh.moegirl.org.cn/zh-hans/%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85)
+- ⚡ &nbsp; My dearest love is [Elysia](https://zh.moegirl.org.cn/zh-hans/%E7%88%B1%E8%8E%89%E5%B8%8C%E9%9B%85), a truely Unfailing and Romantic girl♪—she's so cute and beautiful, right?
 
 <h3> 🛠  Tech Stack</h3>
 
