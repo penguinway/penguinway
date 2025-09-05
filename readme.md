@@ -15,7 +15,6 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch&logoColor=EE4C2C)
